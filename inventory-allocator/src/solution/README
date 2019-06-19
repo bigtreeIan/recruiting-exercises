@@ -1,0 +1,20 @@
+In order to run my program. 
+1. The easiest way is to run the JUnit Test in Eclipse IDE;
+*Please let me know if there is any problem on running the program.*
+
+The XML file looks like the following:
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AllocateTest" project="Deliverr.com OA" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="solution.AllocateTest" time="0.035" displayname="AllocateTest" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]">
+    <testcase name="testOneItemNotMatch" classname="solution.AllocateTest" time="0.0" displayname="testOneItemNotMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testOneItemNotMatch()]"/>
+    <testcase name="testTwoItemNotMatch" classname="solution.AllocateTest" time="0.0" displayname="testTwoItemNotMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testTwoItemNotMatch()]"/>
+    <testcase name="aLittleComplexMatch" classname="solution.AllocateTest" time="0.0" displayname="aLittleComplexMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:aLittleComplexMatch()]"/>
+    <testcase name="testTwoItemMatch" classname="solution.AllocateTest" time="0.008" displayname="testTwoItemMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testTwoItemMatch()]"/>
+    <testcase name="testOneItemMatch" classname="solution.AllocateTest" time="0.001" displayname="testOneItemMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testOneItemMatch()]"/>
+    <testcase name="aLittleComplexMatchNotAllWareHouse" classname="solution.AllocateTest" time="0.002" displayname="aLittleComplexMatchNotAllWareHouse()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:aLittleComplexMatchNotAllWareHouse()]"/>
+    <testcase name="testTwoWareHouseMatch" classname="solution.AllocateTest" time="0.001" displayname="testTwoWareHouseMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testTwoWareHouseMatch()]"/>
+    <testcase name="testThreeItemNotMatch" classname="solution.AllocateTest" time="0.005" displayname="testThreeItemNotMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testThreeItemNotMatch()]"/>
+    <testcase name="aLittleComplexNotMatch" classname="solution.AllocateTest" time="0.001" displayname="aLittleComplexNotMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:aLittleComplexNotMatch()]"/>
+    <testcase name="testThreeItemMatch" classname="solution.AllocateTest" time="0.017" displayname="testThreeItemMatch()" uniqueid="[engine:junit-jupiter]/[class:solution.AllocateTest]/[method:testThreeItemMatch()]"/>
+  </testsuite>
+</testrun>
+
